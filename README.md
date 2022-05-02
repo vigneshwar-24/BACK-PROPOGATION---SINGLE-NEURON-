@@ -1,4 +1,4 @@
-### EX-04
+### EXNO:07
 ### Date:
 # <p align="center"> BACK-PROPOGATION---SINGLE-NEURON</p>
 ## AIM:
