@@ -1,5 +1,5 @@
-### EXNO:07
-### Date:
+### EXNO:04
+### Date:11.04.2022
 # <p align="center"> BACK-PROPOGATION---SINGLE-NEURON</p>
 ## AIM:
 
